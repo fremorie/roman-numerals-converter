@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
+.container {
+  height: 200px
+}
+
+.pageTitle {
+  margin: 20px 0 40px;
+  text-align: center;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.separator {
+  margin-top: 1.5em;
+}
